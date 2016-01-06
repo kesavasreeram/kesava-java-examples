@@ -43,4 +43,4 @@ Temporary Items
 .apdisk
 
 #Directories related to Webstorm and IntelliJ project structure
-.idea
+.idea/
